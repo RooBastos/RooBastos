@@ -1,14 +1,10 @@
-### Olá, sou a Roberta Bastos, mas pode chamar de Roo 👋
+## Olá, sou a Roberta Bastos, mas pode chamar de Roo 👋
 
-  <div>
-    <img align="right" alt="Roo-Oni" width=85" src="https://i.imgur.com/4b1RZMA.gif"><br><br>
-  </div>
-  <div style="list-style: circle">
-    <ul>
-      <li>🌱 Estudando Node.js e React</li>
-      <li>📫 Contatos via e-mail: roobaastos@gmail.com</li>
-      <li>⚡ Hobbies: Ler, escrever e jogar online</li>
-     <ul><br>
+   <div style="display: inline_block">
+      <img align="right" alt="Roo-Oni" width=230" src="https://www.gamersdecide.com/sites/default/files/oni-meeps-thoughts_10.jpg">
+      <p>🌱 Estudando Node.js e React</p>
+      <p>📫 Contatos via e-mail: roobaastos@gmail.com</p>
+      <p>⚡ Hobbies: Ler, escrever e jogar online</p>
   </div>
   
   ##
