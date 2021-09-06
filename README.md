@@ -1,14 +1,14 @@
 ### Olá, sou a Roberta Bastos, mas pode chamar de Roo 👋
 
   <div>
-    <img align="right" alt="Roo-Oni" width=70" src="https://i.imgur.com/4b1RZMA.gif"><br>
+    <img align="right" alt="Roo-Oni" width=85" src="https://i.imgur.com/4b1RZMA.gif"><br><br>
   </div>
   <div style="list-style: circle">
     <ul>
       <li>🌱 Estudando Node.js e React</li>
       <li>📫 Contatos via e-mail: roobaastos@gmail.com</li>
       <li>⚡ Hobbies: Ler, escrever e jogar online</li>
-     <ul><br><br>
+     <ul><br>
   </div>
   
   ##
