@@ -8,7 +8,7 @@
       <li>🌱 Estudando Node.js e React</li>
       <li>📫 Contatos via e-mail: roobaastos@gmail.com</li>
       <li>⚡ Hobbies: Ler, escrever e jogar online</li>
-     <ul><br>
+     <ul><br><br>
   </div>
   
   ##
