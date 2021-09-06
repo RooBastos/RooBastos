@@ -4,7 +4,7 @@
       <img align="right" alt="Roo-Oni" width=230" src="https://www.gamersdecide.com/sites/default/files/oni-meeps-thoughts_10.jpg">
       <p>🌱 Estudando Node.js e React</p>
       <p>📫 Contatos via e-mail: roobaastos@gmail.com</p>
-      <p>⚡ Hobbies: Ler, escrever e jogar online</p>
+      <p>⚡ Hobbies: Ler, escrever e jogar online</p><br>
   </div>
   
   ##
