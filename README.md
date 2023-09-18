@@ -17,7 +17,7 @@
   
   ##
   
-  <div style="display: inline_block"><br>
+  <!--<div style="display: inline_block"><br>
     <h6>Linguagens de Programação</h6>
     <img align="center" alt="Roo-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Roo-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,7 +25,7 @@
     <img align="center" alt="Roo-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="Roo-RNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br><br>
     <img align="right" alt="Roo-Oni" width="300" src="https://cdn.forums.klei.com/monthly_2018_06/PDqEA7V.gif.22fc48573c96a7b3256a4000e171c64b.gif">
-  </div>
+  </div>-->
  
   ##
   
