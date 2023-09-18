@@ -11,7 +11,7 @@
 
   <div style="display: inline_block">
     <a href="https://github.com/roobastos"><br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=roobastos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=roobastos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
     <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roobastos&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
   
@@ -26,8 +26,6 @@
     <img align="center" alt="Roo-RNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br><br>
     <img align="right" alt="Roo-Oni" width="300" src="https://cdn.forums.klei.com/monthly_2018_06/PDqEA7V.gif.22fc48573c96a7b3256a4000e171c64b.gif">
   </div>-->
- 
-  ##
   
   <div>
     <h6>Design</h6>
