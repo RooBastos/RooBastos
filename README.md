@@ -1,7 +1,7 @@
 ## Olá, sou a Roberta Bastos, mas pode chamar de Roo 👋
 
    <div style="display: inline_block">
-      <img align="right" alt="Roo-Oni" width=230" src="https://www.gamersdecide.com/sites/default/files/oni-meeps-thoughts_10.jpg">
+      <img align="right" alt="Roo-Oni" width=230 src="https://i.imgur.com/WIhkqAO.gif"/>
       <p>🌱 Estudando HTML, SCSS, JavaScript, Phyton</p>
       <p>📫 Contatos via e-mail: rbastosdeveloper@gmail.com</p>
       <p>⚡ Hobbies: Ler, escrever e jogar</p>
