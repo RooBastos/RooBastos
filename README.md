@@ -2,7 +2,7 @@
 
    <div style="display: inline_block">
       <img align="right" alt="Roo-Oni" width=230" src="https://www.gamersdecide.com/sites/default/files/oni-meeps-thoughts_10.jpg">
-      <p>🌱 Estudando Java</p>
+      <p>🌱 Estudando HTML, SCSS, JavaScript, Phyton</p>
       <p>📫 Contatos via e-mail: rbastosdeveloper@gmail.com</p>
       <p>⚡ Hobbies: Ler, escrever e jogar</p>
   </div>
